@@ -2,7 +2,7 @@ Jack & Brian Co.
 
 "Greeting"- A revolutionary program that makes the world a better place, one greeting at a" time.
 
-"Greeting" Code of Conduct
+"Greeting" CoC (Code of Conduct)
 
 Our Pledge
 
@@ -63,7 +63,7 @@ a project may be further defined and clarified by project maintainers.
 Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at [INSERT EMAIL ADDRESS]. All
+reported by contacting the project team at [here](bes140@pitt.edu). All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
